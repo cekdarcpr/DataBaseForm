@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBaseForm", "DataBaseForm\DataBaseForm.csproj", "{C3CA9113-DBED-4679-A790-FB2E961C427A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3CA9113-DBED-4679-A790-FB2E961C427A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3CA9113-DBED-4679-A790-FB2E961C427A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3CA9113-DBED-4679-A790-FB2E961C427A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3CA9113-DBED-4679-A790-FB2E961C427A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2C9D3EA-34C5-4976-AD4B-F793FC2B494D}
+	EndGlobalSection
+EndGlobal
